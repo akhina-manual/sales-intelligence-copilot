@@ -55,7 +55,6 @@ elif page == "AI Assistant":
 else:
     st.info(f"{page} page will be added next.")
 
-st.divider()
 
 csv = filtered_df.to_csv(index=False).encode("utf-8")
 
