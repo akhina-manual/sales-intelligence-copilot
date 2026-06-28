@@ -137,3 +137,7 @@ The repository contains:
 ## Author
 
 **Akhina Manual**
+
+## Live Demo
+
+[View Live App](https://sales-intelligence-copilot.streamlit.app/)
